@@ -1,2 +1,2 @@
-# kubernetes_security_specialist_course
-This repo contains all the files used in the K8's security specialization course. 
+# Master Course to prepare for CKS certification
+Course repository: [Link.](https://github.com/zealvora/certified-kubernetes-security-specialist)
